@@ -11,7 +11,7 @@ function johnLennonFacts(facts){
   var strarray = [];
   while(len < facts.length)
   {
-    strarray.push(facts[len] + " !!!")
+    strarray.push(facts[len] + "!!!")
     len++;
   }
   return strarray;
