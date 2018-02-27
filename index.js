@@ -17,3 +17,10 @@ function johnLennonFacts(facts){
   return strarray;
 }
 
+function iLoveTheBeatles(num){
+  var array = [];
+  do{
+    
+  }while();
+  
+}
